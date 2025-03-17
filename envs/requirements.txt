@@ -1,0 +1,6 @@
+dask==2024.11.2 # https://github.com/scverse/squidpy/issues/937
+pertpy[conda]
+scanpy[leiden]
+scvi-tools
+seaborn
+squidpy==1.6.5

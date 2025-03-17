@@ -1,0 +1,5 @@
+black
+isort
+jedi_language_server
+lsprotocol
+pylint
